@@ -25,9 +25,11 @@
   
 ##### 部署说明
 参看：https://github.com/amsokol/openshift-golang-template  
-注意：现该模版不支持命令行参数，才有了此环境变量版gost  
+注意：原该模版不支持命令行参数，才有了此环境变量版gost  
+     目前该模版已支持命令行参数及配置文件。本版仅备份用  
   
-thanks:  
+ 
+#### thanks:  
 	https://github.com/ginuerzh/gost  
 	https://github.com/amsokol/openshift-golang-template  
 
